@@ -1,6 +1,6 @@
 # URL Extractor Web Crawler
 
-## Run the Scraper
+## Run the Crawler
 The `requirements.txt` file contains all Python libraries that the program
 depends on. Install them using:
 
